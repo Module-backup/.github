@@ -1,5 +1,5 @@
 # 一个模块备份仓库
-### 已收录一下仓库
+### 已收录以下仓库
 + tiann/KernelSU
 + LSPosed/LSPosed
 + LSPosed/LSPatch
